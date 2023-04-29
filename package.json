@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/analytics",
-  "description": "Uniswap analytics",
+  "name": "@mageswap/analytics",
+  "description": "analytics",
   "repository": "https://github.com/Uniswap/analytics",
   "license": "MIT",
   "publishConfig": {
