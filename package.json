@@ -3,6 +3,7 @@
   "description": "analytics",
   "repository": "https://github.com/Uniswap/analytics",
   "license": "MIT",
+  "version":"3.0.1",
   "publishConfig": {
     "access": "public"
   },
