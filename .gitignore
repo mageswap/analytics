@@ -9,7 +9,6 @@ package-lock.json
 /cosmos-export
 /dist
 /dts
-/lib
 *.tgz
 package*
 
